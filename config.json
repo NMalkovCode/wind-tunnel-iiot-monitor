@@ -1,0 +1,10 @@
+{
+  "MQTT_BROKER": "127.0.0.1",
+  "MQTT_PORT": 1883,
+  "MQTT_TOPIC": "fan_monitor/data",
+  "UI_SETTINGS": {
+    "APP_WIDTH": 990,
+    "APP_HEIGHT": 540
+  },
+  "SMA_WINDOW_SIZE": 5
+}
