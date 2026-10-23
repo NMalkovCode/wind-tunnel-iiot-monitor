@@ -1,4 +1,15 @@
+# environment
 venv/
+.venv/
 __pycache__/
 *.pyc
+.pytest_cache/
+
+# OS / editor
 .DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# local data logs
+*.log
